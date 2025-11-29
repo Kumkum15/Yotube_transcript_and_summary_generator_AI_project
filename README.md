@@ -33,17 +33,24 @@ Youtube_Transcript_Summary/
 5. Setup Instructions
 
 A. Backend Setup
+
 cd src/backend
+
 python -m venv .venv
+
 .\.venv\Scripts\activate
+
 pip install -r requirements.txt
+
 uvicorn main:app --reload --host 127.0.0.1 --port 8000
 
 Backend runs at:
 > http://127.0.0.1:8000
 
 B. Frontend Setup
+
 cd src/frontend
+
 python -m http.server 3000
 
 Frontend runs at:
