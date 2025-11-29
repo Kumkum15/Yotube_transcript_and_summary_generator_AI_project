@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-python-dotenv
-yt-dlp
-openai==1.6.1
-pydantic
-httpx
