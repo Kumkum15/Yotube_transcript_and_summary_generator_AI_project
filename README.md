@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 1. YouTube Video Transcript and Summary Generator
 
 Developer:
@@ -40,14 +40,14 @@ pip install -r requirements.txt
 uvicorn main:app --reload --host 127.0.0.1 --port 8000
 
 Backend runs at:
-👉 http://127.0.0.1:8000
+> http://127.0.0.1:8000
 
 B. Frontend Setup
 cd src/frontend
 python -m http.server 3000
 
 Frontend runs at:
-👉 http://127.0.0.1:3000
+> http://127.0.0.1:3000
 
 6. How to Use
 
@@ -72,9 +72,8 @@ Validation success
 Transcript generated
 Summary generated
 Metadata fetched
+..................................
 
-
-=======
 # AI_Project
 This project helps in converting youtube video to transcript and summary. It can also give meta data and even download audio just by pasting the URL. 
->>>>>>> 8943e395767f84a10a461491258e9c99bc33e606
+
