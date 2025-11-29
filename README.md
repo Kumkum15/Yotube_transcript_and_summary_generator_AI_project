@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. YouTube Video → Transcript → Summary System
 
 Developer:
@@ -73,3 +74,7 @@ Summary generated
 Metadata fetched
 
 
+=======
+# AI_Project
+This project helps in converting youtube video to transcript and summary. It can also give meta data and even download audio just by pasting the URL. 
+>>>>>>> 8943e395767f84a10a461491258e9c99bc33e606
