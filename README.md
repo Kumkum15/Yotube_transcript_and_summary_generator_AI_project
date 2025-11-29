@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-1. YouTube Video → Transcript → Summary System
+1. YouTube Video Transcript and Summary Generator
 
 Developer:
 Name: Kumkum Hirani
@@ -9,11 +9,11 @@ Email: kumkumhirani.co@gmail.com
 
 A full-stack application where a user can:
 
-✅ Validate YouTube URL
-✅ Download audio
-✅ Generate transcript 
-✅ Generate summary 
-✅ Fetch video metadata
+a. Validate YouTube URL
+b. Download audio
+c. Generate transcript 
+d. Generate summary 
+e. Fetch video metadata
 
 3. Tech Stack
 
