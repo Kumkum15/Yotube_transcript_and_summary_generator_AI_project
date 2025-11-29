@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Downloads folder
+src/backend/downloads/
+
+# Cache
+*.cache/
+.cache/
+hf_cache/
+huggingface/

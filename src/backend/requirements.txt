@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+yt-dlp
+pydantic
+transformers
+torch
+numpy
+sentencepiece
+soundfile
+ffmpeg-python
